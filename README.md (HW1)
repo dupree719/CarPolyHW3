@@ -1,0 +1,40 @@
+HW1
+
+Chapters : 
+
+Know your variables - 
+A variable is just a container that stores data
+Variables must have a TYPE (int, char, double, etc.)
+Variables can be used as arguments (values sent to a method by calling the code)
+"" "" as return types(values sent back to the caller of the method)
+
+Instance variables - variables declared inside a class but outside any method
+Local variables - variables declared inside a method or method parameter
+
+The 8 Primitive types: char, boolean, int, double, float, byte, short, long
+
+
+
+
+How objects behave - 
+A class is the blueprint for an object
+Objects can have behaviors (methods) called upon them. Ex: 'public void throwBall' = Behavior/Action/Method....To make an object perform this method = object.throwBall
+Objects have state = attributes
+
+
+
+Serious Polymorphism - 
+You can make one method that come in different forms for each class
+
+
+Life and Death of an Object - 
+Stack and heap are two areas of memory in Java
+
+The Stack: Where method invocations/local variables live
+
+The Heap: Where ALL objects live; regardless of whether the reference is a local or instance variable
+
+Object creation :
+Duck myDuck = new Duck();
+
+
